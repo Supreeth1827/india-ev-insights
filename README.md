@@ -3,6 +3,8 @@
 A polished Streamlit dashboard that analyses electric-vehicle trends, manufacturer market share,
 charging-infrastructure coverage, and future outlook across India using five real-world datasets.
 
+🔗 **Live Demo:** [EV Adoption in India Dashboard](https://india-ev-insights-apkco45ezlwc5egym8xdvj.streamlit.app/)
+
 ---
 
 ## 📁 Project Structure
@@ -116,4 +118,4 @@ Place all downloaded CSV files in the **same directory** as `app.py` before runn
 This project is for educational and analytical purposes.  
 Data sourced from public datasets (Vahan Dashboard / EVREPORTER).
 
-🔗 **Live Demo:** [EV Adoption in India Dashboard](https://india-ev-insights-apkco45ezlwc5egym8xdvj.streamlit.app/)
+
