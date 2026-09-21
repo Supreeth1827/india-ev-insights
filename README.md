@@ -115,3 +115,5 @@ Place all downloaded CSV files in the **same directory** as `app.py` before runn
 
 This project is for educational and analytical purposes.  
 Data sourced from public datasets (Vahan Dashboard / EVREPORTER).
+
+🔗 **Live Demo:** [EV Adoption in India Dashboard](https://india-ev-insights-apkco45ezlwc5egym8xdvj.streamlit.app/)
