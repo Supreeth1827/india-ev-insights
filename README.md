@@ -106,7 +106,7 @@ Place all downloaded CSV files in the **same directory** as `app.py` before runn
 | `streamlit` | ≥ 1.32 | Web dashboard framework |
 | `pandas` | ≥ 2.0 | Data loading & manipulation |
 | `numpy` | ≥ 1.26 | Numerical operations |
-| `plotly` | ≥ 5.20 | Interactive charts & India map |
+| `plotly` | ≥ 5.20 | Interactive charts & Visualizations |
 | `scikit-learn` | ≥ 1.4 | Polynomial regression for forecasting |
 
 ---
